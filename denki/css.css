@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'HG教科書体', serif;
+}
+
+header {
+    background: #dbd0b8;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    padding: 2em;
+}
+
+main {
+    width: 90%;
+    margin: 3em auto;
+}
+
+part li {
+    font-size: 120%;
+}
+
+char {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+shinji {
+    text-align: center;
+    margin: 1em;
+}
+
+yomi {
+    display: block;
+    text-align: center;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+}
+
+h3 {
+    border-left: 4px solid #dbd0b8;
+    padding: .5em;
+}
+
+footer {
+    text-align: right;
+    background: #dbd0b8;
+    padding: 1em;
+}
